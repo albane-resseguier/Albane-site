@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=PlaywriteEnglandSemiJoined");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Playwrite England SemiJoined';
+  background-color:#DFF2EB;
+  font-size: 20px;
+  margin: 0px;
+  }
+h1, h3 {
+  font-family: 'Copperplate';
+  font-weight: bold;
+}
+h2 {
+  font-family: 'Playwrite England SemiJoined';
+  font-size:25px;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+}
